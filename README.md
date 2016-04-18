@@ -1,3 +1,6 @@
+*before reading notes* to download all the the IObit programs please visit the website, this only has Defrag, and Random password
+generator.
+
 IM AM NOT HERE PROMOTING ANY OF THESE COMPANIES, I AM HERE TO HELP YOU WITH INTERNET AND COMPUTER SECURITY WITH THE THINGS I USE!
 
 Our computer security is something we all need to consider a lot more than most people do.
