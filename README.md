@@ -1,5 +1,5 @@
-*before reading notes* to download all the the IObit programs please visit the website, this only has Defrag, and Random password
-generator.
+*before reading notes* to download all the the IObit programs please visit the website, this file only had the Encryption/Decryption
+programs I coded from anothers code.
 
 IM AM NOT HERE PROMOTING ANY OF THESE COMPANIES, I AM HERE TO HELP YOU WITH INTERNET AND COMPUTER SECURITY WITH THE THINGS I USE!
 
